@@ -42,6 +42,6 @@ The dataset (`crimes.csv`) contains records of reported crimes, including:
 1. Clone this repository:
    ```bash
    git clone https://github.com/Gidayi-dev/Crime
-   
+
 2. Install required libraries
-pip install pandas numpy seaborn matplotlib
+```pip install pandas numpy seaborn matplotlib```
